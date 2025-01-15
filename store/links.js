@@ -1,5 +1,6 @@
 export default [
   { url: "/home", text: "Home" },
   { url: "/about", text: "About" },
-  { url: "/weather", text: "Weather" }
+  { url: "/weather", text: "Weather" },
+  { url: "/order", text: "Order" }
 ];
